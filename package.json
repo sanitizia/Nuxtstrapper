@@ -1,6 +1,6 @@
 {
   "name": "nuxtstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A bootstrapper for the nuxt framework",
   "repository": "https://github.com/sanitizia/Nuxtstrapper.git",
   "author": "Sanitize Hams <sanitize@epicg.net>",
