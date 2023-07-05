@@ -1,0 +1,12 @@
+{
+  "name": "nuxtstrap",
+  "version": "1.0.0",
+  "description": "A bootstrapper for the nuxt framework",
+  "repository": "https://github.com/sanitizia/Nuxtstrapper.git",
+  "author": "Sanitize Hams <sanitize@epicg.net>",
+  "license": "Unlicense",
+  "bin": "bin.mjs",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
